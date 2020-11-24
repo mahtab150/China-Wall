@@ -1,0 +1,31 @@
+/* This Stylesheet is for less Resolution devices then 650px */
+/* header */
+.header{
+text-align:center;
+float :none;
+}
+/* nav */
+.nav{
+float:none;
+text-align:center;
+}
+.nav ul li a{
+font-size:15px;
+}
+/* input */
+.submit{
+color:red;
+background: #000;
+border:1px solid red;
+border-radius:5px;
+padding:5px;
+font-size:20px;
+}
+.comment{
+color:red;
+background: #000;
+border:1px solid red;
+border-radius:5px;
+padding:5px;
+font-size:20px;
+}
